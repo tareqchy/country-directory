@@ -23,7 +23,7 @@ The api used to get the country data is from here: https://travelbriefing.org/ap
 The autosuggest to show country list has been used from here: https://www.digitalocean.com/community/tutorials/react-react-autocomplete
 
 ### Live Version
-The app can be viewed here: http://portfolio.sysnoma.com/react/country-directory/public/
+The app can be viewed here: https://tareqchy.github.io/country-directory/
 
 ### Author Profile
 Find me on linkedin: https://www.linkedin.com/in/tareqmahmud/
